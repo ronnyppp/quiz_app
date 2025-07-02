@@ -17,9 +17,9 @@ A quiz app built with Flutter. Users can take a multiple-choice quiz on Flutter 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72e9cb07-87e7-4c5a-a7b7-831ec1126e68" width="300" height="450">
-  <img src="https://github.com/user-attachments/assets/c243a7c5-418e-46f9-852f-dc995e683bea" width="300" height="450">
-  <img src="https://github.com/user-attachments/assets/023703c6-2959-4ffc-8510-32133ceaa08a" width="300" height="450">
+  <img src="https://github.com/user-attachments/assets/72e9cb07-87e7-4c5a-a7b7-831ec1126e68" width="250" height="450">
+  <img src="https://github.com/user-attachments/assets/c243a7c5-418e-46f9-852f-dc995e683bea" width="250" height="450">
+  <img src="https://github.com/user-attachments/assets/023703c6-2959-4ffc-8510-32133ceaa08a" width="250" height="450">
 </p>
 
 ---
