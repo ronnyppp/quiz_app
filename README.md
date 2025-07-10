@@ -37,7 +37,7 @@ A quiz app built with Flutter. Users can take a multiple-choice quiz on Flutter 
 To run this app locally:
 
 ```bash
-git clone https://github.com/ronnyppp/flutter-quiz-app.git
-cd flutter-quiz-app
+git clone https://github.com/ronnyppp/quiz_app.git
+cd quiz_app
 flutter pub get
 flutter run
